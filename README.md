@@ -46,9 +46,11 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/user-attachments/assets/239c15b3-490e-464d-81b4-9508256d0359)
 
-### Name:
-### Register Number:
+
+### Name: BHARANI KUMAR S
+### Register Number: 212224230035
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
